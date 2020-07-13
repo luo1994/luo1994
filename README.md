@@ -3,4 +3,4 @@
 
 
 
-<div style="display: center"><img src="https://github.com/luo1994/luo1994/blob/master/me.png" data-canonical-src="https://github.com/luo1994/luo1994/blob/master/me.png" width="500" style="display: block"/></div>
+<div style="display: center"><img src="https://github.com/luo1994/luo1994/blob/master/me.png" data-canonical-src="https://github.com/luo1994/luo1994/blob/master/me.png" width="600" style="display: block"/></div>
