@@ -6,7 +6,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luo1994&repo=du-app-sign&theme=radical" />
 </a>  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=luo1994&show_icons=true&theme=tokyonight)
 
 <div style="display: center"><img src="https://github.com/luo1994/luo1994/blob/master/me.png" data-canonical-src="https://github.com/luo1994/luo1994/blob/master/me.png" width="600" style="display: block"/></div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=luo1994&show_icons=true&theme=tokyonight)
 
